@@ -1,6 +1,6 @@
 ### Hi there 👋 
 Hello World!
- 
+ I’m currently learning ...statistics and information science
 <!--
 **ZF127/ZF127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
